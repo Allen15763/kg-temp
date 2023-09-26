@@ -1,0 +1,46 @@
+[2023-08-10 22:38:51] - xgb1 - start training cv
+[2023-08-10 22:38:51] - xgb1 fold 0 - start training
+[2023-08-10 22:38:52] - xgb1 fold 0 - end training - score 2.1972246170043945
+[2023-08-10 22:38:52] - xgb1 fold 1 - start training
+[2023-08-10 22:38:52] - xgb1 fold 1 - end training - score 2.1972246170043945
+[2023-08-10 22:38:52] - xgb1 fold 2 - start training
+[2023-08-10 22:38:52] - xgb1 fold 2 - end training - score 2.1972246170043945
+[2023-08-10 22:38:52] - xgb1 fold 3 - start training
+[2023-08-10 22:38:52] - xgb1 fold 3 - end training - score 2.1972246170043945
+[2023-08-10 22:38:52] - xgb1 - end training cv - score 2.1972246170043945
+[2023-08-10 22:38:52] - xgb1 - start prediction cv
+[2023-08-10 22:38:52] - xgb1 - start prediction fold:0
+[2023-08-10 22:38:52] - xgb1 - end prediction fold:0
+[2023-08-10 22:38:52] - xgb1 - start prediction fold:1
+[2023-08-10 22:38:52] - xgb1 - end prediction fold:1
+[2023-08-10 22:38:52] - xgb1 - start prediction fold:2
+[2023-08-10 22:38:52] - xgb1 - end prediction fold:2
+[2023-08-10 22:38:52] - xgb1 - start prediction fold:3
+[2023-08-10 22:38:52] - xgb1 - end prediction fold:3
+[2023-08-10 22:38:52] - xgb1 - end prediction cv
+[2023-08-10 22:38:52] - nn1 - start training cv
+[2023-08-10 22:38:52] - nn1 fold 0 - start training
+[2023-08-10 22:38:55] - nn1 fold 0 - end training - score 2.050445718424661
+[2023-08-10 22:38:55] - nn1 fold 1 - start training
+[2023-08-10 22:38:57] - nn1 fold 1 - end training - score 2.057233120713915
+[2023-08-10 22:38:57] - nn1 fold 2 - start training
+[2023-08-10 22:39:00] - nn1 fold 2 - end training - score 2.0699352025985718
+[2023-08-10 22:39:00] - nn1 fold 3 - start training
+[2023-08-10 22:39:02] - nn1 fold 3 - end training - score 2.052042603492737
+[2023-08-10 22:39:02] - nn1 - end training cv - score 2.057414161307471
+[2023-08-10 22:39:02] - nn1 - start prediction cv
+[2023-08-10 22:39:02] - nn1 - start prediction fold:0
+[2023-08-10 22:39:02] - nn1 - end prediction fold:0
+[2023-08-10 22:39:02] - nn1 - start prediction fold:1
+[2023-08-10 22:39:03] - nn1 - end prediction fold:1
+[2023-08-10 22:39:03] - nn1 - start prediction fold:2
+[2023-08-10 22:39:03] - nn1 - end prediction fold:2
+[2023-08-10 22:39:03] - nn1 - start prediction fold:3
+[2023-08-10 22:39:03] - nn1 - end prediction fold:3
+[2023-08-10 22:39:03] - nn1 - end prediction cv
+[2023-08-10 22:52:33] - xgb1-train-all - start training all
+[2023-08-10 22:52:34] - xgb1-train-all - end training all
+[2023-08-10 22:54:29] - xgb1-train-all - start training all
+[2023-08-10 22:54:30] - xgb1-train-all - end training all
+[2023-08-10 22:54:30] - xgb1-train-all - start prediction all
+[2023-08-10 22:54:30] - xgb1-train-all - end prediction all
