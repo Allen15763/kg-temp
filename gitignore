@@ -1,7 +1,8 @@
 downloads/
 output/
+input/
 *.zip
-
+*.csv
 # certificate
 *.json
 
