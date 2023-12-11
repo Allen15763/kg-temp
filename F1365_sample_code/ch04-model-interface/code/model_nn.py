@@ -5,11 +5,13 @@ import pandas as pd
 from keras.callbacks import EarlyStopping
 # from keras.layers.advanced_activations import PReLU
 from keras.layers import PReLU
-from keras.layers.core import Activation, Dense, Dropout
+# from keras.layers.core import Activation, Dense, Dropout
+from tensorflow.python.keras.layers.core import Activation, Dense, Dropout
 # from keras.layers.normalization import BatchNormalization
 from keras.layers import BatchNormalization
 from keras.models import Sequential, load_model
-from keras.utils import np_utils
+# from keras.utils import np_utils
+from tensorflow.python.keras.utils import np_utils
 from sklearn.preprocessing import StandardScaler
 
 from model import Model

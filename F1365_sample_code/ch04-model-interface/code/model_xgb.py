@@ -34,7 +34,8 @@ class ModelXGB(Model):
 
     def predict(self, te_x):
         dtest = xgb.DMatrix(te_x)
-        return self.model.predict(dtest, ntree_limit=self.model.best_ntree_limit)
+        # return self.model.predict(dtest, ntree_limit=self.model.best_ntree_limit)
+        return self.model.predict(dtest)
 
     def save_model(self):
         model_path = os.path.join('../model/model', f'{self.run_fold_name}.model')
